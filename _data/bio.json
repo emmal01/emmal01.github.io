@@ -1,31 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Emma Layton",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/emmal01.png",
+    "email": "elayton@hawaii.edu",
+    "phone": "571-839-2876",
+    "website": "https://emmal01.github.io",
+    "summary": "I am currently pursuing a Ph.D. in the Atmospheric Sciences Department at the University of Hawaii. I expect to graduate in Spring, 2029.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "emmal01", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "emmalayton", "url": "http://linkedin.com/in/linkedin.com/in/emma-layton-1a562a1a8" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cloud Dynamics" },
+    { "name": "Climate Justice" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "MATLAB", "Java" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,11 +29,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Columbia University in the City of New York",
+      "area": "Earth Science",
+      "studyType": "B.A.",
+      "startDate": "2019-09-01",
+      "endDate": "2023-05-23",
       "courses": [
       ]
     }
