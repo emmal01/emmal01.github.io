@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Just made a personal portfolio with the help of Techfolios!"
 # All dates must be YYYY-MM-DD format!
-date: 2023-22-09
+date: 2023-09-22
 published: true
 labels:
   - Professional Development
