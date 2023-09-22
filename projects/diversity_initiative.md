@@ -4,7 +4,7 @@ layout: project
 type: project
 image: img/clear_sky_square.jpg
 title: "Diversify FCPS Initiative"
-date: 2023
+date: 2020-2021
 published: true
 labels:
   - Community Work
