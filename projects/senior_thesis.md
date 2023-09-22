@@ -8,7 +8,7 @@ published: true
 labels:
   - Python
   - Intake
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "My senior thesis research probed sources of error in parameterized clear-sky radiation models, focusing on high-CO2 scenarios relevant to our changing climate."
 ---
 
 For my senior thesis, I compared parameterized and line-by-line model output from experimental protocol outlined by the CMIP6 Radiative Forcing Model Intercomparison Proect (RFMIP). The purpose of this was to understand how well the parameterized radiation models that are incorporated in Global Climate Models (GCMs) quantify the radiative energy balance of the atmosphere. 
