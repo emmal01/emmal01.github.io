@@ -11,7 +11,7 @@ labels:
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/clear_sky_square.jpg">
 
 For my senior thesis, I compared parameterized and line-by-line model output from experimental protocol outlined by the CMIP6 Radiative Forcing Model Intercomparison Proect (RFMIP). The purpose of this was to understand how well the parameterized radiation models that are incorporated in Global Climate Models (GCMs) quantify the radiative energy balance of the atmosphere. 
 
