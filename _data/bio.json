@@ -1,102 +1,113 @@
 {
-  "basics": {
-    "name": "Emma Layton",
-    "label": "Student",
-    "picture": "https://github.com/emmal01.png",
-    "email": "elayton@hawaii.edu",
-    "phone": "571-839-2876",
-    "website": "https://emmal01.github.io",
-    "summary": "I am currently pursuing a Ph.D. in the Atmospheric Sciences Department at the University of Hawaii. I expect to graduate in Spring, 2029.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "emmal01", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "emmalayton", "url": "http://linkedin.com/in/linkedin.com/in/emma-layton-1a562a1a8" },
-    ]
-  },
-  "interests": [
-    { "name": "Cloud Dynamics" },
-    { "name": "Radiation" },
-    { "name": "Climate Modeling" },
-    { "name": "Climate Justice" },
-    { "name": "Community Science" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "MATLAB", "Java" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Columbia University in the City of New York",
-      "area": "Earth Science",
-      "studyType": "B.A.", "GPA: 3.94", "Dean's List",
-      "startDate": "2019-09-01",
-      "endDate": "2023-05-23",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa",
-      "position": "Graduate Research Assistant",
-      "website": "",
-      "startDate": "2023-08-16",
-      "endDate": "Present",
-      "summary": ""
-      "highlights": [
-        "Researches shallow cumulus convection"
-      ]
-    },
-    {
-      "company": "Columbia University",
-      "position": "Research Assistant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Conducted research on error in parameterized clear-sky radiation models"
-      ]
-    },
-    {
-      "company": "Industrial Economics, Inc.",
-      "position": "Research Analyst Intern",
-      "website": "https://indecon.com/",
-      "startDate": "2022-06-23",
-      "endDate": "2022-08-23",
-      "summary": "",
-      "highlights": [
-        "Compiled and analyzed data used for Natural Resource Damage Assessments"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Project Restore Us",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Event Planner",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Departmental Honors in Earth Science",
-      "date": "2023-05",
-      "awarder": "Department of Earth and Environmental Sciences, Columbia University",
-      "summary": "Award to the top Earth Science student in the graduating cohort."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+	"basics": {
+		"name": "Emma Layton",
+		"label": "Student",
+		"picture": "https://github.com/emmal01.png",
+		"email": "elayton@hawaii.edu",
+		"phone": "571-839-2876",
+		"website": "https://emmal01.github.io",
+		"summary": "I am currently pursuing a Ph.D. in the Atmospheric Sciences Department at the University of Hawaii. I expect to graduate in Spring, 2029.",
+		"location": {
+			"address": "",
+			"postalCode": "96822",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "emmal01",
+				"url": "http://github.com/changeme"
+			},
+			{
+				"network": "linkedin",
+				"username": "emmalayton",
+				"url": "http://linkedin.com/in/linkedin.com/in/emma-layton-1a562a1a8"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Cloud Dynamics"
+		},
+		{
+			"name": "Radiation"
+		},
+		{
+			"name": "Climate Modeling"
+		},
+		{
+			"name": "Climate Justice"
+		},
+		{
+			"name": "Community Science"
+		}
+	],
+	"skills": [{
+		"name": "Languages and Frameworks",
+		"keywords": ["Python", "MATLAB", "Java"]
+	}],
+	"education": [{
+		"institution": "Columbia University in the City of New York",
+		"area": "Earth Science",
+		"studyType": "B.A.",
+		"GPA": "3.94",
+		"Honors": "Dean's List",
+		"startDate": "2019-09-01",
+		"endDate": "2023-05-23",
+		"courses": []
+	}],
+	"work": [{
+			"company": "UH Manoa",
+			"position": "Graduate Research Assistant",
+			"website": "",
+			"startDate": "2023-08-16",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": [
+				"Researches shallow cumulus convection"
+			]
+		},
+		{
+			"company": "Columbia University",
+			"position": "Research Assistant",
+			"website": "http://www.hawaii.edu/its/",
+			"startDate": "2015-01-01",
+			"endDate": "2016-03-15",
+			"summary": "",
+			"highlights": [
+				"Conducted research on error in parameterized clear-sky radiation models"
+			]
+		},
+		{
+			"company": "Industrial Economics, Inc.",
+			"position": "Research Analyst Intern",
+			"website": "https://indecon.com/",
+			"startDate": "2022-06-23",
+			"endDate": "2022-08-23",
+			"highlights": [
+				"Compiled and analyzed data used for Natural Resource Damage Assessments"
+			]
+		}
+	],
+	"volunteer": [{
+		"organization": "Project Restore Us",
+		"website": "http://manoa.hawaii.edu/reis",
+		"position": "Event Planner",
+		"startDate": "2016-01-01",
+		"endDate": "Present",
+		"summary": "Lead developer for weather sensing project",
+		"highlights": [
+			"Design firmware for distributed weather sensor network",
+			"Maintain custom data collection and storage infrastructure"
+		]
+	}],
+	"awards": [{
+		"title": "Departmental Honors in Earth Science",
+		"date": "2023-05",
+		"awarder": "Department of Earth and Environmental Sciences, Columbia University",
+		"summary": "Award to the top Earth Science student in the graduating cohort."
+	}],
+	"references": [{
+		"name": "Available upon request"
+	}]
 }
