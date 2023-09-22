@@ -34,7 +34,7 @@
     {
       "institution": "Columbia University in the City of New York",
       "area": "Earth Science",
-      "studyType": "B.A.",
+      "studyType": "B.A.", "GPA: 3.94", "Dean's List",
       "startDate": "2019-09-01",
       "endDate": "2023-05-23",
       "courses": [
@@ -43,35 +43,44 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa",
+      "position": "Graduate Research Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-08-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": ""
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Researches shallow cumulus convection"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Columbia University",
+      "position": "Research Assistant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Conducted research on error in parameterized clear-sky radiation models"
+      ]
+    },
+    {
+      "company": "Industrial Economics, Inc.",
+      "position": "Research Analyst Intern",
+      "website": "https://indecon.com/",
+      "startDate": "2022-06-23",
+      "endDate": "2022-08-23",
+      "summary": "",
+      "highlights": [
+        "Compiled and analyzed data used for Natural Resource Damage Assessments"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Project Restore Us",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "position": "Event Planner",
       "startDate": "2016-01-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
@@ -80,33 +89,15 @@
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Departmental Honors in Earth Science",
+      "date": "2023-05",
+      "awarder": "Department of Earth and Environmental Sciences, Columbia University",
+      "summary": "Award to the top Earth Science student in the graduating cohort."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+
   ],
   "references": [
     {
