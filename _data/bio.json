@@ -24,10 +24,6 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "Python", "MATLAB", "Java" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
@@ -88,7 +84,7 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }
   ],
   "awards": [
     {
@@ -96,8 +92,7 @@
       "date": "2023-05",
       "awarder": "Department of Earth and Environmental Sciences, Columbia University",
       "summary": "Award to the top Earth Science student in the graduating cohort."
-    },
-
+    }
   ],
   "references": [
     {
