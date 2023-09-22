@@ -6,10 +6,8 @@ title: "Assessing CO2 error in clear-sky parameterized radiation models"
 date: 2023
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Python
+  - Intake
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
