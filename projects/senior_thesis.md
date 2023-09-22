@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/clear_sky_square.jpg
+image: img/clear_sky_square.jpg
 title: "Assessing CO2 error in clear-sky parameterized radiation models"
 date: 2023
 published: true
